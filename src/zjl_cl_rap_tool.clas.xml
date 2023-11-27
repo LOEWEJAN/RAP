@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZJL_CL_RAP_TOOL</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>JL: RAP</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BADI</CMPNAME>
+     <SCONAME>I_BADI_NAME</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Name eines BAdIs im Enhancement Framework</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BADI</CMPNAME>
+     <SCONAME>RR_BADI</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Base-Class for all BAdI-Proxies</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_BADI</CMPNAME>
+     <SCONAME>ZJL_CX_BEHAVIOR_STATIC_CHECK</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>JL: RAP (STATIC CHECK)</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
